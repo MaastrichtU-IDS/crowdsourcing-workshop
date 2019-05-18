@@ -2,6 +2,7 @@
 
 # Lectures May 2019
 Slides for the Workshop on Citizen Science and Crowdsourcing on May 17th 2019: https://www.maastrichtuniversity.nl/events/crowdsourcing-workshop
+
 1 - Introduction to Human Computation: https://github.com/MaastrichtU-IDS/crowdsourcing-workshop/blob/master/Lectures2019/1%20Introduction%20to%20Human%20Computation.pdf
 
 2 - Microtask Crowdsourcing_ Fundamentals (Part I): https://github.com/MaastrichtU-IDS/crowdsourcing-workshop/blob/master/Lectures2019/2%20Microtask%20Crowdsourcing_%20%20Fundamentals_%20Part%20I.pdf
